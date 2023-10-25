@@ -1,1 +1,70 @@
 ExamTopics
+
+Conceitos de computação em nuvem 
+- O que é computação em nuvem? 
+  É uma entrega de serviços de computação por meio da internet. A ideia é que a nuvem seja um lugar flexivel que não tenha limites.
+  Economia de escala
+    - Empresa que diminui os custos para quem está usando.
+  Oferece computaores virtuais e Armazenamentos infinitos, e diversos outros serviços.
+    - Force segurança mas não faz parte da nuvem fornecer a seguraça. 
+  Nuvem não é one drive e serviços que utilizamos no dia a dia.
+
+#######################
+
+Modelo de responsabilidade compartilhada:
+
+  - IaaS = Infra como serviço: Não froce software e nem plataforma pronta, force tudo do zero sem sistema operacional para que monte do zero. Só se preocuparam para te dar a maquina fisica. 
+  - PaaS - Plataforma como serviço = Gerencia plataforma fisica, o gerenciameto depende da estrutura que quer, sistema operacional, controle de rede e aplicativos. 
+  - SaaS - Software como serviço = É um software pronto aonde não precisa fornecer nada do que os demias e sua responsabilidade é menor. 
+        CAPEx - Lidar com todas manuteções 
+        Opex - dispesa opéracional 
+
+#######################
+
+Nuvem privada:
+
+  - É quando uma organização fornece a nuvem só para uma outra organização.
+  - É quando utilizase VPN para que apenas os funcionários autorizados possam utilizar.
+  - Utiliza o seu proprio Data Center.
+  - Deve ser comprada e as organizações são repsponsaveis pela preparação do local.
+
+Nuvem Publica:
+
+  - É publica porque é liberada para todos que paguem consigam usar.
+  - Não tem dispesa de capital porque não tem investimento de equipamentos.
+  - Paga apenas pelo o que utiliza
+
+Nuvem hibrida:
+
+  - É uma mescla das duas, tanto usa o datacenter quanto a nuvem publica.
+  - Tem uma maior flexibilidade, você define como quiser.
+
+OBS: Para empresas que utilizam varios tipos de nuvens são Multi Cloud.
+
+########################
+
+Comparação de CAPEX E OPEX
+
+  CAPEX - Tem um gasto inicial na infra fisica, melhorias e utilização dos equipamentos.
+  OPEX - Paga conforme utiliza. 
+
+########################
+
+Modelo em nuvem baseado pelo consumo
+  - Você paga conforme a utilização dos recursos e conforme for acrescentando mais serviços. 
+  - Tem uma melhor previsão de custo 
+  - A cobrança é baseda em modo real
+
+Beneficios da nuvem:
+  - Alta disponibilidae, sempre que chega tem (Não confudir com durabilidade) 
+  - Alta escalabilidade, quando aumenta as vendas e a escla, pode aumentar por camadas... 
+  - confiabilidade é executar o serviço da maneira correta
+  - previsibilidade é quando você consegue prever tudo o que vai gastar 
+  - segurança/capacidade/gerenciamento - você tem uma melhor gestão desses recursos 
+
+
+
+
+
+  
+ 
