@@ -60,7 +60,18 @@ Beneficios da nuvem:
   - Alta escalabilidade, quando aumenta as vendas e a escla, pode aumentar por camadas... 
   - confiabilidade é executar o serviço da maneira correta
   - previsibilidade é quando você consegue prever tudo o que vai gastar 
-  - segurança/capacidade/gerenciamento - você tem uma melhor gestão desses recursos 
+  - segurança/capacidade/gerenciamento - você tem uma melhor gestão desses recursos
+
+######################
+
+IaaS
+  VM - Maquina virtual 
+  Conta de Armazenamento 
+  Vnet - Iaas 
+
+PaaS
+  Banco de dados
+  Aplicaivos Logicos
 
 
 
