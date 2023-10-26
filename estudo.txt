@@ -6,14 +6,14 @@ Conceitos de computação em nuvem
   Economia de escala
     - Empresa que diminui os custos para quem está usando.
   Oferece computaores virtuais e Armazenamentos infinitos, e diversos outros serviços.
-    - Force segurança mas não faz parte da nuvem fornecer a seguraça. 
+    - Fornece segurança mas não faz parte da nuvem fornecer a seguraça. 
   Nuvem não é one drive e serviços que utilizamos no dia a dia.
 
 #######################
 
 Modelo de responsabilidade compartilhada:
 
-  - IaaS = Infra como serviço: Não froce software e nem plataforma pronta, force tudo do zero sem sistema operacional para que monte do zero. Só se preocuparam para te dar a maquina fisica. 
+  - IaaS = Infra como serviço: Não fornece software e nem plataforma pronta, fornece tudo do zero sem sistema operacional para que monte do zero. Só se preocuparam para te dar a maquina fisica. 
   - PaaS - Plataforma como serviço = Gerencia plataforma fisica, o gerenciameto depende da estrutura que quer, sistema operacional, controle de rede e aplicativos. 
   - SaaS - Software como serviço = É um software pronto aonde não precisa fornecer nada do que os demias e sua responsabilidade é menor. 
         CAPEx - Lidar com todas manuteções 
@@ -72,6 +72,68 @@ IaaS
 PaaS
   Banco de dados
   Aplicaivos Logicos
+
+#######################
+
+Regiões 
+  - As regióes são compostas de um ou mais datacenters próximos um do outro
+  - uma Região pode ser diferente da outra em questão de serviços
+
+Zonas 
+  - Separa os datacenters dentro de uma mesma região;
+  - são separdados fisicamente para que um não afete o outro caso houver problema
+
+Parese de Regiões 
+  - No minimo 300 milhas de separação entre pares e regiões 
+  - são feitos e utilizados como um backup, todos os paises precisam ter um par.
+
+Regiões soberanas do Azure
+  - Somente o governo que utiliza (Empreiteiros do governo)
+  - fisicamente são isoladas 
+POP 
+  - Serve para distribuir conteúdo 
+  - não se cria nada no POP 
+  - A ideia do POP é levar mais rárido o conteúdo para o usuário.
+
+Recursos do Azure 
+  - Maquinas virtuais:
+      Cria um ambiente similar ao ambiente real 
+
+  - Conta de armazenamento:    (IaaS)
+      Tem uma melhor organização dos objetos 
+      BLOB, encara um arquivo como um unuco objeto, trablaha menos flexivel, se precisar fazer alguma mudança tem que alterar o arquivo inteiro.
+
+  - Redes virtuais:
+      Ela fica presa a uma região, é obrigado expecificar uma região e sub-redes, da pra se dividir melhor espalhando em varias.
+
+  - Serviços de aplicativos: 
+      Posso criar um aplicativo ou utilizo o que ja tenho 
+
+  - Banco de Dados SQL:
+      Posso utilizar qualquer banco de dados 
+
+  - Function: (Lambda)
+      Computação sem servidor 
+      Jogo o código aqui dentro para trazer algo pra mim, responde a eventos e gatilhos.
+
+###########################
+
+Grupos de recursos
+  - é um container para gerenciar recursos em uma unica unidade 
+  - Pode estar em qualquer lugar do planeta 
+  - Pode ser moviodo para diferentes grupos de recursos. 
+  - Pode ser utilizados varios gruopos de recursos.
+
+###########################
+
+Assinaturas do Azure 
+
+  - Pode ser para limite de cobrença, faz uma só para gerenciar algum tipo de acesso
+
+Grupo de gerenciamento 
+  - Gerencia assinaturas
+  - É dividido como se fosse uma arvarore e tem um limite de 6 niveis de pronfudidade. 
+
 
 
 
