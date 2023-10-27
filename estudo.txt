@@ -169,7 +169,7 @@ Vnet
 
 Serviços de rede do Azure
   - VPN é usado para enviar tráfego criptografado entre uma rede virtual e um ocal de internet publica. 
-  - Express Rout = Ela traça um um caminho novo diferente da VPN, faz um novo caminho... Não tem criptografia pq o link é direto é mais rápido que a VPN 
+  - Express Rout = Ela traça um um caminho novo diferente da VPN, faz um novo caminho... Não tem criptografia pq o link é direto é mais rápido que a VPN.
 
 
 
