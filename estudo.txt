@@ -132,7 +132,48 @@ Assinaturas do Azure
 
 Grupo de gerenciamento 
   - Gerencia assinaturas
-  - É dividido como se fosse uma arvarore e tem um limite de 6 niveis de pronfudidade.  
+  - É dividido como se fosse uma arvarore e tem um limite de 6 niveis de pronfudidade.
+
+#########################
+
+Computação e rede 
+  - 
+Conjunto de dimensionamento 
+
+  - É a utilização da maquina conforme é utilizavel.
+  - Se for obter um aumento no front end é mais viavél utiliza um escalonamento Horizontal
+  - Agora se for falar de back end é mais viavel usar um escalonamento vertical para aumentar a capacidade da maquina conforme é utilizavel.
+
+Conjunto de disponibilidade 
+  - Caso tenha alguma falha em um dos racks vai para outro rack e continua o funcionamento 
+
+Área de trabalho virtual
+  - É um ambiente que cria uma virtualização de trabalho sem precisar executar outros servidores, vira uma plataforma para poder utilizar os aplicativo.
+
+Seviço de container do Azure
+  - São tratados com PaaS. Se for utilizar pouca coisa utiliza instância de conateiner. Se for utilizar mais recursos utiliza o Kubernetes. 
+
+Function 
+  - Gerencia a infraestrutura através de código 
+
+- Servidor baseado em nuvem = Maquina virtual lift-and-shift
+- Área de trabalho virtual = Pode se acessar através de qualquer dispositivo e varias pessoas pode acessar o mesmo cliente 
+- Conteiners = Relacionado a micro serviços
+
+Serviços de app do Azure (PaaS)
+  - Trabalha com com .Net .Net Core. Node.JS, JAva, Python ou PHP 
+  - Oferta PaaS com requisitos de nivel corporativo 
+
+Vnet 
+  - Rede virtual isolada de outras redes
+
+Serviços de rede do Azure
+  - VPN é usado para enviar tráfego criptografado entre uma rede virtual e um ocal de internet publica. 
+  - Express Rout = Ela traça um um caminho novo diferente da VPN, faz um novo caminho... Não tem criptografia pq o link é direto é mais rápido que a VPN 
+
+
+
+
 
 
 
