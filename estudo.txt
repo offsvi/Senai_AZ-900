@@ -132,7 +132,7 @@ Assinaturas do Azure
 
 Grupo de gerenciamento 
   - Gerencia assinaturas
-  - É dividido como se fosse uma arvarore e tem um limite de 6 niveis de pronfudidade. 
+  - É dividido como se fosse uma arvarore e tem um limite de 6 niveis de pronfudidade.  
 
 
 
