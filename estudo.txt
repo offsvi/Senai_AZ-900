@@ -177,9 +177,62 @@ Front door
   - Quem diminui a latência e gerencia a entrega de conteudos. 
   - Ele espsalha os links para aumentar a velocidade de acesso caso o links esteja hospetado em outro pais. Ele distribui nos pops. 
 
+##########################################
 
+Anotações prova:
 
+Azure Databricks
+  - dados - análise baseda em apache spark
 
+Aplicativo logico do azure 
+  - fluxo de trabalho 
+      ex: notificações por email encaminhar pedido mover arbuinos monitorar tweets.
+
+Alerta de orçamento
+  - alertar sobre orçamentos predefinidos
+      ex: orçamento 5.000 alertar em 2.000, 3.500 e 5.000
+
+Infraestrutura como código: 
+  - modelos do ARM
+
+SLA
+ - Contrato de nível de serviço 
+      Ex: 99,95 
+                > 99,94
+          99,99
+
+Trafego entre subredes 
+  - Grupo de segurança de rede
+
+Trafego entre redes em assinaturas diferentes 
+  - Firewall do azure 
+
+Versionamento e armazenamento de codigo 
+  - Azure Repos
+
+TAG
+  - Relatório de faturamento 
+
+Registro de atividade
+  - Monitora usuário 
+
+Azure monitor 
+  - Recursos telemetria 
+
+HUB de eventos 
+  - starting para eventos de big data
+
+powerShell 
+  - Windows
+
+Bach
+  - Linux 
+
+Cloud shell 
+  - CLI aure / Linux
+
+Azure devtest lab 
+  - espaço para testes "Subir" várias máquinas e "Derrubar" com velocidade.
 
 
 
