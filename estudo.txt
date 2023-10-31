@@ -173,6 +173,12 @@ Serviços de rede do Azure
 
 
 
+Front door
+  - Quem diminui a latência e gerencia a entrega de conteudos. 
+  - Ele espsalha os links para aumentar a velocidade de acesso caso o links esteja hospetado em outro pais. Ele distribui nos pops. 
+
+
+
 
 
 
