@@ -257,4 +257,13 @@ Serviço de armazenamento do Azure:
   - Link para estudo: 
         https://docs.microsoft.com/learn/modules/describe-azure-storage-services/4-describe-azure-storage-services
 
+Migração para o Azure:
+  - Data box = uma maleta que você pode carrecagar até 80 terabytes de dados.
+
+Opções de gerenciamento de arquivos:
+
+  - AZCopy - Linha de comando 
+  - Gernciamento de armazenamento azure - Interface gráfica
+  - Sincronização de arquivos azure - Sincroniza arquivos locais
+
  
