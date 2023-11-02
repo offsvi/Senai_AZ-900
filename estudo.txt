@@ -250,6 +250,11 @@ Redundância de armazenamento
   GZRS
   - Três zonas de disponibilidade na região primária e um datcenter individual na região secundária (16noves)
 
+Link da explicação com melhor entendimento:
+https://docs.microsoft.com/learn/modules/describe-azure-storage-services/3-redundancy
+
+
+
 
 
 
