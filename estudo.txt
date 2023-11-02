@@ -225,7 +225,7 @@ HUB de eventos
 powerShell 
   - Windows
 
-Bach
+Bash
   - Linux 
 
 Cloud shell 
@@ -253,11 +253,8 @@ Redundância de armazenamento
 Link da explicação com melhor entendimento:
 https://docs.microsoft.com/learn/modules/describe-azure-storage-services/3-redundancy
 
+Serviço de armazenamento do Azure:
+  - Link para estudo: 
+        https://docs.microsoft.com/learn/modules/describe-azure-storage-services/4-describe-azure-storage-services
 
-
-
-
-
-
-  
  
