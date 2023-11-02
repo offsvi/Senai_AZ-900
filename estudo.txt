@@ -235,6 +235,21 @@ Azure devtest lab
   - espaço para testes "Subir" várias máquinas e "Derrubar" com velocidade.
 
 
+################################
+
+Redundância de armazenamento
+  LRS
+  - Datacenter individual na regiao primaria (11noves)
+
+  ZRS
+  - Três zonas de disponibilidade na região primária (12noves)
+
+  GRS
+  - Datacenter individual nas regiões primaria e secundarias (16noves)
+
+  GZRS
+  - Três zonas de disponibilidade na região primária e um datcenter individual na região secundária (16noves)
+
 
 
 
