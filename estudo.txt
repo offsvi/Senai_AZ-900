@@ -293,6 +293,9 @@ Conformidade tem haver com politicas e blueprints
 Azure RBAC 
   - Ele da a função à alguém para poder gerenciar alguma ação com escopos diferentes.
 
+Portal de confiança 
+  - É por onde a Microsoft protege os seus dados, são os dados próprios da empresa e não dos ususários. 
+
 
 
  
