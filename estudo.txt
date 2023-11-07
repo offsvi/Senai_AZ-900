@@ -296,6 +296,7 @@ Azure RBAC
 Portal de confiança 
   - É por onde a Microsoft protege os seus dados, são os dados próprios da empresa e não dos ususários. 
 
-
+Política de Privacidade da Microsoft e Declaração de Privacidade
+  - É aonde você consegue ver os dados pessoais 
 
  
