@@ -290,6 +290,9 @@ Azure Blueprints
 
 Conformidade tem haver com politicas e blueprints
 
+Azure RBAC 
+  - Ele da a função à alguém para poder gerenciar alguma ação com escopos diferentes.
+
 
 
  
