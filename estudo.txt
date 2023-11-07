@@ -266,4 +266,30 @@ Opções de gerenciamento de arquivos:
   - Gernciamento de armazenamento azure - Interface gráfica
   - Sincronização de arquivos azure - Sincroniza arquivos locais
 
+Fatores que afetam os custos
+
+  - Tipo de recurso utilizado
+  - Consumo 
+  - Manutenção 
+  - Área Geografica
+  - Trafego de rede  
+  - Assinatura
+
+Azure Marketplace 
+  - São soluções que são prontas que alguém ja criou ou você pode criar.
+
+Calculadora de preços:
+  - Calculador de preços para saber os valore dos produtos na nuvem.
+  - Não é para fazer cotação, apenas estimativa. 
+
+Gerenciamento de custos:
+  - A ideia do monitor é para ver a saúde dos meus recursos. 
+
+Azure Blueprints
+  - O Azure Blueprints permite que as equipes de desenvolvimento criem e mantenham novos ambientes rapidamente.
+
+Conformidade tem haver com politicas e blueprints
+
+
+
  
