@@ -266,6 +266,8 @@ Opções de gerenciamento de arquivos:
   - Gernciamento de armazenamento azure - Interface gráfica
   - Sincronização de arquivos azure - Sincroniza arquivos locais
 
+############################################
+
 Fatores que afetam os custos
 
   - Tipo de recurso utilizado
@@ -299,4 +301,14 @@ Portal de confiança
 Política de Privacidade da Microsoft e Declaração de Privacidade
   - É aonde você consegue ver os dados pessoais 
 
- 
+ Azure ARC 
+  - Linca serviços e consegue acessar outros locais e várias outras nuvens 
+        EX: acessa AWS, acessa outros recursos...
+
+Azure Resourse menager 
+  - É aonde monta a infraestrutura e oferece uma camada de gerenciamento. 
+
+Azure Monitor 
+  - Monitora carga de trabalho
+  - Desempenho 
+  - Infraestrutura 
