@@ -347,6 +347,15 @@ Aplicativos Lógicos do Azure:
 Azure Dev Labs:
   - Para trabalhar com desenvolvimento, serviço gratuito mas paga pelas maquinas que utilizou.
 
+Microsoft Defender para nuvem 
+  - É como se fosse um super Anti Virus. um conjunto de medidas e práticas de segurança projetadas para proteger aplicativos baseados em nuvem contra várias ameaças e vulnerabilidades cibernéticas.
+
+Azure Sentinel
+   SIEM (Gerenciamento de informações e eventos de segurança
+    SOAR (Orquestração de segurança, automação e resposta)
+
+
+
 
 
 
