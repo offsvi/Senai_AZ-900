@@ -312,3 +312,7 @@ Azure Monitor
   - Monitora carga de trabalho
   - Desempenho 
   - Infraestrutura 
+#############################################
+
+Databrick:
+  - Analise de dados baseado em Inteligência Artificial
