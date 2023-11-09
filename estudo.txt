@@ -354,7 +354,7 @@ Azure Sentinel
    SIEM (Gerenciamento de informações e eventos de segurança
     SOAR (Orquestração de segurança, automação e resposta)
 
-
+***********Segurança, banco de dadose blueprint  - O que estão cobrando
 
 
 
