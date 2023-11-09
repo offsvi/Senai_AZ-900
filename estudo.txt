@@ -356,6 +356,7 @@ Azure Sentinel
 
 ***********Segurança, banco de dadose blueprint  - O que estão cobrando
 
-
+Defender:
+  - Está ligado com JIT - JET
 
 
