@@ -316,3 +316,37 @@ Azure Monitor
 
 Databrick:
   - Analise de dados baseado em Inteligência Artificial
+
+Azure DeVops:
+  - Dá suporte a uma cultura colaborativa e um conjunto de processos que reúnem desenvolvedores
+        Azure Boards:
+              - Acompanha o projeto como se fosse um Kanban
+        Azure Repos:
+              - Armazena Repositórios 
+        Azure Test Plan:
+              - Para Devs e parte de desenvolvimento
+        Azure Pipelines:
+              - Implanta e teste serviços interagindo com o GitHub 
+        Azure Artifects:
+              - Compartilha e hospeda codigos e pacotes com a equipe. 
+
+Azure HDInsight
+  - Pode utilizar estruturas de código aberto e serviços totalmente gerenciados.
+
+Azure Data Lake:
+  - inclui todos os recursos necessários para que seja mais fácil para desenvolvedores
+  - cientistas de dados e analistas armazenar dados de qualquer tamanho, forma e velocidade.
+
+Azure IOT Hub:
+  - Seve para gerenciar arquivos através da nuvem. Mede a saúde dos equipamentos e faz a captura do que os dispositivos estão fazendo.
+  - Serve para ver coisa muito grande. 
+
+Aplicativos Lógicos do Azure:
+  - VAi estar lincado na prova como uma aplicação que segue um fluxo.
+
+Azure Dev Labs:
+  - Para trabalhar com desenvolvimento, serviço gratuito mas paga pelas maquinas que utilizou.
+
+
+
+
