@@ -360,3 +360,6 @@ Defender:
   - Está ligado com JIT - JET
 
 ExameTopcs
+
+Planos de suporte Azure
+  - 	Básico	DESENVOLVEDOR	STANDARD	PROFESSIONAL DIRECT
