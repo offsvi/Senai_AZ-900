@@ -363,3 +363,5 @@ ExameTopcs
 
 Planos de suporte Azure
   - 	Básico	DESENVOLVEDOR	STANDARD	PROFESSIONAL DIRECT
+  - VAlore:
+        - USD$ 29 por mês  USD$ 100 por mês  USD$ 1.000 por mês
