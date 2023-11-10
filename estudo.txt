@@ -7,7 +7,7 @@ Conceitos de computação em nuvem
     - Empresa que diminui os custos para quem está usando.
   Oferece computaores virtuais e Armazenamentos infinitos, e diversos outros serviços.
     - Fornece segurança mas não faz parte da nuvem fornecer a seguraça. 
-  Nuvem não é one drive e serviços que utilizamos no dia a dia.
+  Nuvem não é one drive e serviços que utilizamos no dia a dia. 
 
 #######################
 
