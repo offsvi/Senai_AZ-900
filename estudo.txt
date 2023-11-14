@@ -20,7 +20,7 @@ Modelo de responsabilidade compartilhada:
         Opex - dispesa opéracional 
 
 #######################
-
+ 
 Nuvem privada:
 
   - É quando uma organização fornece a nuvem só para uma outra organização.
