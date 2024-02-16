@@ -19,7 +19,7 @@ Modelo de responsabilidade compartilhada:
         CAPEx - Lidar com todas manuteções 
         Opex - dispesa opéracional 
 
-#######################
+########################
  
 Nuvem privada:
 
