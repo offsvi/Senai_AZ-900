@@ -95,7 +95,7 @@ POP
   - não se cria nada no POP 
   - A ideia do POP é levar mais rárido o conteúdo para o usuário.
 
-Recursos do Azure 
+Recursos do Azure
   - Maquinas virtuais:
       Cria um ambiente similar ao ambiente real 
 
