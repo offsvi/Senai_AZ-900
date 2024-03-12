@@ -9,7 +9,7 @@ Conceitos de computação em nuvem
     - Fornece segurança mas não faz parte da nuvem fornecer a seguraça. 
   Nuvem não é one drive e serviços que utilizamos no dia a dia. 
 
-########################## 
+##########################
 
 Modelo de responsabilidade compartilhada:
 
