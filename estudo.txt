@@ -2,7 +2,7 @@ ExamTopics
 
 Conceitos de computação em nuvem 
 - O que é computação em nuvem? 
-  É uma entrega de serviços de computação por meio da internet. A ideia é que a nuvem seja um lugar flexivel que não tenha limites.
+  É uma entrega de serviços de computação por meio da internet. A ideia é que a nuvem seja um lugar flexivel que não tenha limites. 
   Economia de escala   
     - Empresa que diminui os custos para quem está usando. 
   Oferece computaores virtuais e Armazenamentos infinitos, e diversos outros serviços. 
