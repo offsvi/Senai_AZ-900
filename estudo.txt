@@ -12,7 +12,7 @@ Conceitos de computação em nuvem
 ##########################
 
 Modelo de responsabilidade compartilhada:
-
+ 
   - IaaS = Infra como serviço: Não fornece software e nem plataforma pronta, fornece tudo do zero sem sistema operacional para que monte do zero. Só se preocuparam para te dar a maquina fisica. 
   - PaaS - Plataforma como serviço = Gerencia plataforma fisica, o gerenciameto depende da estrutura que quer, sistema operacional, controle de rede e aplicativos. 
   - SaaS - Software como serviço = É um software pronto aonde não precisa fornecer nada do que os demias e sua responsabilidade é menor. 
