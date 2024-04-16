@@ -53,7 +53,7 @@ Comparação de CAPEX E OPEX
 Modelo em nuvem baseado pelo consumo
   - Você paga conforme a utilização dos recursos e conforme for acrescentando mais serviços. 
   - Tem uma melhor previsão de custo 
-  - A cobrança é baseda em modo real
+  - A cobrança é baseda em modo real 
 
 Beneficios da nuvem:
   - Alta disponibilidae, sempre que chega tem (Não confudir com durabilidade) 
